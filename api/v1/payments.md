@@ -99,6 +99,7 @@ Parameter     | Description
 `date_from`   | payments charged on or after this date
 `date_to`     | payments charged on or before this date
 `status`      | valid options are: successful, refunded, or failed
+`count`       | number of rows. 
 
 #### Notes
 
